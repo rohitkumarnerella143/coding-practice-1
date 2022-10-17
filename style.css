@@ -1,0 +1,26 @@
+.main{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    /* padding-left: 10px; */
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+.para1{
+    font-size: 16px;
+}
+.headingh3{
+    font-size: 25px;
+}
+.btn{
+    width: 80px;
+}
+.lastpara{
+    text-decoration: underline;
+    font-size: 12px;
+    cursor: pointer;
+}
